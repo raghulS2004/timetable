@@ -112,11 +112,10 @@ Execute the program
 ```
 
 # OUPUT
-
-![OUTPUT](http://raghul.student.saveetha.in:8000/static/html/output.png?raw=true)
+![output](https://user-images.githubusercontent.com/122069938/233309087-619e1802-5edc-43f2-888c-8f36ce8a5bef.png)
 
 # HTML VALIDATORS
-![HTML VALIDATOR](http://raghul.student.saveetha.in:8000/static/html/valid.png?raw=true)
+![valid](https://user-images.githubusercontent.com/122069938/233309062-467a73cc-db88-4222-a898-10ce21b0a306.png)
 
 # RESULT 
 The program for creating slot time table is completed succesfully.
